@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "312704214017",
+    "project_id": "hallkaro",
+    "storage_bucket": "hallkaro.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312704214017:android:3c52751aa0cd7cdb524c00",
+        "android_client_info": {
+          "package_name": "com.example.hall_karo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAecAglJJ-eH6WjQdjRfSBHvMjt0AL4deU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
