@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:hall_karo/app/src/utils/color.dart';
+import 'package:hall_karo/app/src/utils/constant/color.dart';
 
 import 'typography.dart';
 
